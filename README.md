@@ -3,7 +3,7 @@
 https://devpost.com/software/subbrain?ref_content=user-portfolio&ref_feature=in_progress
 
 
-nspiration TLDR; Using Reddit as a platform enables the development of a Language Model for knowledge retrieval, offering real-time market insights, sentiment analysis on prevailing trends, and responses to inquiries based on historical data.
+Inspiration TLDR; Using Reddit as a platform enables the development of a Language Model for knowledge retrieval, offering real-time market insights, sentiment analysis on prevailing trends, and responses to inquiries based on historical data.
 
 The common stereotype of REDDITORS are that they are verbose, pedantic, and overly confident in their knowledge. Although they are known for their long rants on obscure topics and "terrible" advice", there are some gems like r/uwaterloo, r/cscareeradvice etc. that provide great advice. We wanted to see if we could retrieve information from these subreddits and power a web-based chatbot application.
 
