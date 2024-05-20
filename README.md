@@ -2,6 +2,9 @@
 
 https://devpost.com/software/subbrain?ref_content=user-portfolio&ref_feature=in_progress
 
+<img width="1728" alt="Screenshot 2024-05-19 at 3 24 14 PM" src="https://github.com/AidenAR/AidenAR-SubBrain-AR/assets/88297517/a02de89c-1b0b-4caf-a42e-990e24ac0c3f">
+
+
 
 Inspiration TLDR; Using Reddit as a platform enables the development of a Language Model for knowledge retrieval, offering real-time market insights, sentiment analysis on prevailing trends, and responses to inquiries based on historical data.
 
