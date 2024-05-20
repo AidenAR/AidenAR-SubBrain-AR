@@ -2,6 +2,8 @@
 
 https://devpost.com/software/subbrain?ref_content=user-portfolio&ref_feature=in_progress
 
+<img width="1728" alt="Screenshot 2024-05-19 at 3 23 26 PM" src="https://github.com/AidenAR/AidenAR-SubBrain-AR/assets/88297517/2aa0895c-0c8b-413e-b4a6-e6219bb6991f">
+
 <img width="1728" alt="Screenshot 2024-05-19 at 3 24 14 PM" src="https://github.com/AidenAR/AidenAR-SubBrain-AR/assets/88297517/a02de89c-1b0b-4caf-a42e-990e24ac0c3f">
 
 
